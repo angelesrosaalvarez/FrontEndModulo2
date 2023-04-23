@@ -28,16 +28,4 @@ class SlothMachine
   const machine1 = new SlothMachine();
   machine1.play(); 
   machine1.play(); 
-  machine1.play(); 
-  machine1.play();
-  machine1.play(); 
-  machine1.play(); 
-  machine1.play(); 
-  machine1.play(); 
-  machine1.play(); 
-  machine1.play(); 
-  machine1.play(); 
-  machine1.play(); 
-  machine1.play(); 
-  machine1.play(); 
-  machine1.play(); 
+  machine1.play();  
